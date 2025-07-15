@@ -1,2 +1,2 @@
 # Deforestation-Fire-Detection
-Project 1 OF ml
+Project 1 of ML
